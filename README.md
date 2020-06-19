@@ -10,4 +10,4 @@ Also, the device uses a PCB from another project of mine, which I made for Kinec
 Link to project:
 https://github.com/deskpro256/Kinetics_Rev_counter
 
-To be continued..
+To be continued...
